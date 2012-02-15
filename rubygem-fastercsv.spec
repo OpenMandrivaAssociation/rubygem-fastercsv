@@ -5,7 +5,7 @@ Summary:	FasterCSV is CSV, but faster, smaller, and cleaner
 Name:		rubygem-%{rbname}
 
 Version:	1.5.4
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://fastercsv.rubyforge.org
