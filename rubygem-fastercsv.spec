@@ -8,7 +8,7 @@ Version:	1.5.4
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://fastercsv.rubyforge.org
+URL:		https://fastercsv.rubyforge.org
 Source0:	http://gems.rubyforge.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildArch:	noarch
